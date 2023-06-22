@@ -1,0 +1,37 @@
+@model Todo.Models.UserTask
+
+@{
+	ViewData["Title"] = "Criar Nova Tarefa";
+}
+
+<body>
+	<h1>Criar Nova Tarefa</h1>
+	<hr>
+	<div class="row">
+		<div class="col-md-4">
+			<form asp-action="Criar">
+				<div class="form-group mb-3">
+					<label asp-for="Titulo" class="control-label"><b>Título</b></label>
+					<input asp-for="Titulo" class="form-control" type="text">
+				</div>
+				<div class="form-group mb-3">
+					<label asp-for="Descricao" class="control-label"><b>Descrição</b></label>
+					<input asp-for="Descricao" class="form-control" type="text">
+				</div>
+				<div class="form-group mb-3">
+					<label asp-for="Data" class="control-label"><b>Data</b></label>
+					<input asp-for="Data" class="form-control" type="date">
+				</div>
+				<div>
+					<label asp-for="Status" hidden></label>
+					<input asp-for="Status" type="text" value="Pendente" hidden>
+				</div>
+				<div class="form-group">
+					<input class="btn btn-primary" type="submit" value="Criar">
+					<input class="btn btn-danger" type="reset" value="Limpar">
+					<a asp-action="Index" class="btn btn-secondary">Voltar</a>
+				</div>
+			</form>
+		</div>
+	</div>
+</body>

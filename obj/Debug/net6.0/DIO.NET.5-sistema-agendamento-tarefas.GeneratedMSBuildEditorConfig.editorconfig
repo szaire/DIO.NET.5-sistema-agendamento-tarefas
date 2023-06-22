@@ -27,6 +27,22 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/samueo/DIOprojects/desafios/dotnet/DIO.NET.5-sistema-agendamento-tarefas/Views/Task/Criar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFzay9Dcmlhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/samueo/DIOprojects/desafios/dotnet/DIO.NET.5-sistema-agendamento-tarefas/Views/Task/Deletar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFzay9EZWxldGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/samueo/DIOprojects/desafios/dotnet/DIO.NET.5-sistema-agendamento-tarefas/Views/Task/Detalhes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFzay9EZXRhbGhlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/samueo/DIOprojects/desafios/dotnet/DIO.NET.5-sistema-agendamento-tarefas/Views/Task/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFzay9FZGl0YXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/samueo/DIOprojects/desafios/dotnet/DIO.NET.5-sistema-agendamento-tarefas/Views/Task/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFzay9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
