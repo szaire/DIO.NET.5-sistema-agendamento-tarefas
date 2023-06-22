@@ -13,11 +13,11 @@ Como desenvolvo em plataformas Linux, minha Connection String estará um pouco d
 # Lista de Funcionalidades:
 | Verbo  | Endpoint                | Parâmetro | Implementado? |
 |--------|-------------------------|-----------|---------------|
-| GET    | /Tarefa/{id}            | id        |      [⛔]     |
-| PUT    | /Tarefa/{id}            | id        |      [⛔]     |
-| DELETE | /Tarefa/{id}            | id        |      [⛔]     |
+| GET    | /Tarefa/{id}            | id        |      [⏳]     |
+| PUT    | /Tarefa/{id}            | id        |      [⏳]     |
+| DELETE | /Tarefa/{id}            | id        |      [⏳]     |
 | GET    | /Tarefa/ObterTodos      | N/A       |      [✅]     |
 | GET    | /Tarefa/ObterPorTitulo  | titulo    |      [⛔]     |
 | GET    | /Tarefa/ObterPorData    | data      |      [⛔]     |
 | GET    | /Tarefa/ObterPorStatus  | status    |      [⛔]     |
-| POST   | /Tarefa                 | N/A       |      [⛔]     |
+| POST   | /Tarefa                 | N/A       |      [⏳]     |
