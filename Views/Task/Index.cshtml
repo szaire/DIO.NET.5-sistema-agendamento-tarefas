@@ -10,10 +10,20 @@
 	</div>
 	<hr>
 	<div class="text-center">
-		<a class="btn btn-primary" asp-action="Criar">Adicionar Tarefa</a>
+		<div class="my-3">
+			<a class="btn btn-primary" asp-action="Criar">Adicionar Tarefa</a>
+		</div>
+		<div class="my-3">
+			<fieldset class="border">
+				<legend>Filtrar Atividades</legend>
+				<form asp-action="Filtro">
+					
+				</form>
+			</fieldset>
+		</div>
 	</div>
 	<hr>
-	<table class="table">
+	<table class="table table-striped">
 		<thead>
 			<tr>
 				<th>

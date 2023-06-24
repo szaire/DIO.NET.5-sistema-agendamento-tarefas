@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p3vyMhzUhBdEKcepMJ+WtCA9xpM86JQTQCfsKmhmzhgH/CiSGDeOjA4KJ9riAeE3BoyJ/5yp+iXuhnpg91oW7g==",
+  "dgSpecHash": "g2ckCU0zLUS8GY8dy70CIAf9qCBM0Px25zsqomOjZadLz0VPWiZfcm2kkF2JBgbAc9iImBWAIA3hDkxrzedEPg==",
   "success": true,
-  "projectFilePath": "/home/samueo/DIOprojects/desafios/dotnet/DIO.NET.5-sistema-agendamento-tarefas/DIO.NET.5-sistema-agendamento-tarefas.csproj",
+  "projectFilePath": "/home/samueo/DIOprojects/dotnet-projects/05.api_entity-framework/Desafio/DIO.NET.5-sistema-agendamento-tarefas/DIO.NET.5-sistema-agendamento-tarefas.csproj",
   "expectedPackageFiles": [
     "/home/samueo/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",
     "/home/samueo/.nuget/packages/azure.identity/1.6.0/azure.identity.1.6.0.nupkg.sha512",

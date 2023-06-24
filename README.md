@@ -15,7 +15,7 @@ Como desenvolvo em plataformas Linux, minha Connection String estará um pouco d
 |--------|-------------------------|-----------|---------------|
 | GET    | /Tarefa/{id}            | id        |      [✅]     |
 | PUT    | /Tarefa/{id}            | id        |      [✅]     |
-| DELETE | /Tarefa/{id}            | id        |      [⏳]     |
+| DELETE | /Tarefa/{id}            | id        |      [✅]     |
 | GET    | /Tarefa/ObterTodos      | N/A       |      [✅]     |
 | GET    | /Tarefa/ObterPorTitulo  | titulo    |      [⛔]     |
 | GET    | /Tarefa/ObterPorData    | data      |      [⛔]     |

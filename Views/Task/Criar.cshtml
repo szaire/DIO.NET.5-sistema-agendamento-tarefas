@@ -2,6 +2,9 @@
 
 @{
 	ViewData["Title"] = "Criar Nova Tarefa";
+
+	@* Código C# *@
+	var currentDate = DateTime.Now.ToString("yyyy-MM-dd");
 }
 
 <body>
@@ -20,11 +23,11 @@
 				</div>
 				<div class="form-group mb-3">
 					<label asp-for="Data" class="control-label"><b>Data</b></label>
-					<input asp-for="Data" class="form-control" type="date">
+					<input asp-for="Data" class="form-control" type="date" value="@currentDate">
 				</div>
-				<div>
-					<label asp-for="Status" hidden></label>
-					<input asp-for="Status" type="text" value="Pendente" hidden>
+				<div hidden>
+					<label asp-for="Status"></label>
+					<input asp-for="Status" type="text" value="Pendente">
 				</div>
 				<div class="form-group">
 					<input class="btn btn-primary" type="submit" value="Criar">

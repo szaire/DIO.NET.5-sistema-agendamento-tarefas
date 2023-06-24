@@ -124,5 +124,12 @@ namespace DIO.NET._5_sistema_agendamento_tarefas.Controllers
 
 			return RedirectToAction(nameof(Index));
 		}
+
+		// ========================FILTRAR TASK=============================
+
+		public IActionResult Filtro()
+		{
+			return View();
+		}
 	}
 }

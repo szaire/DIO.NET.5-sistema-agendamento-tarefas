@@ -3269,11 +3269,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/samueo/DIOprojects/desafios/dotnet/DIO.NET.5-sistema-agendamento-tarefas/DIO.NET.5-sistema-agendamento-tarefas.csproj",
+      "projectUniqueName": "/home/samueo/DIOprojects/dotnet-projects/05.api_entity-framework/Desafio/DIO.NET.5-sistema-agendamento-tarefas/DIO.NET.5-sistema-agendamento-tarefas.csproj",
       "projectName": "DIO.NET.5-sistema-agendamento-tarefas",
-      "projectPath": "/home/samueo/DIOprojects/desafios/dotnet/DIO.NET.5-sistema-agendamento-tarefas/DIO.NET.5-sistema-agendamento-tarefas.csproj",
+      "projectPath": "/home/samueo/DIOprojects/dotnet-projects/05.api_entity-framework/Desafio/DIO.NET.5-sistema-agendamento-tarefas/DIO.NET.5-sistema-agendamento-tarefas.csproj",
       "packagesPath": "/home/samueo/.nuget/packages/",
-      "outputPath": "/home/samueo/DIOprojects/desafios/dotnet/DIO.NET.5-sistema-agendamento-tarefas/obj/",
+      "outputPath": "/home/samueo/DIOprojects/dotnet-projects/05.api_entity-framework/Desafio/DIO.NET.5-sistema-agendamento-tarefas/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/samueo/.nuget/NuGet/NuGet.Config"
