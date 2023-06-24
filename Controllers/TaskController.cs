@@ -127,9 +127,12 @@ namespace DIO.NET._5_sistema_agendamento_tarefas.Controllers
 
 		// ========================FILTRAR TASK=============================
 
-		public IActionResult Filtro()
+		public IActionResult ObterPorTitulo(string titulo)
 		{
-			return View();
+			System.Console.WriteLine("asdfasdf" + titulo);
+			var tasks_filtered = _context.Tasks.Where(x => x.Titulo.Equals(titulo));
+
+			return View(tasks_filtered);
 		}
 	}
 }

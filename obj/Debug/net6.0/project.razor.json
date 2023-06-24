@@ -18394,13 +18394,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/samueo/DIOprojects/dotnet-projects/05.api_entity-framework/Desafio/DIO.NET.5-sistema-agendamento-tarefas/Views/Home/Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FilePath": "/home/samueo/DIOprojects/dotnet-projects/05.api_entity-framework/Desafio/DIO.NET.5-sistema-agendamento-tarefas/Views/Task/ObterPorTitulo.cshtml",
+      "TargetPath": "Views\\Task\\ObterPorTitulo.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/samueo/DIOprojects/dotnet-projects/05.api_entity-framework/Desafio/DIO.NET.5-sistema-agendamento-tarefas/Views/Task/Filtro.cshtml",
-      "TargetPath": "Views\\Task\\Filtro.cshtml",
+      "FilePath": "/home/samueo/DIOprojects/dotnet-projects/05.api_entity-framework/Desafio/DIO.NET.5-sistema-agendamento-tarefas/Views/Home/Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
